@@ -1,4 +1,4 @@
-image: jelaniwoods/appdev2021-photogram-signin@sha256:34a4d4d8e779e869242b584e94b5a772920e8353e46643d4c525612ac849dabe
+image: jelaniwoods/appdev2021-photogram-signin@sha256:6fe2ff5e5dbd84731930bbe2d7fc9dce3a633d9c916b549c318157468333088a
 
 tasks:
   - command: bundle install
